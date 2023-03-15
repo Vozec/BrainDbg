@@ -27,7 +27,3 @@ Available Commande :
 # Screenshots:
 
 ![screen1](./github/screen1.png)
-
-![screen2](./github/screen2.png)
-
-![screen3](./github/screen3.png)
