@@ -1,5 +1,5 @@
 # BrainDbg
-This tool is independent Brainfuck debugger , written in python
+This tool is an independent Brainfuck debugger , written in python
 
 
 # Setup
